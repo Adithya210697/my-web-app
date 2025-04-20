@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo sytemctl start httpd
+sudo systemctl start httpd
